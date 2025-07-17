@@ -1,3 +1,1 @@
-,from,random,import,random.1
-0,kashti2,=,"df.sample(frac=random(),random_state=42)",
-1,kashti2.shape,,,
+,pd.get_dummies(df['embarked'])
